@@ -1,7 +1,6 @@
 class Solution {
     public int countPoints(String rings) {
         int len = rings.length();
-        int n = len / 2;
         int arr[][] = new int[10][3]; // Increase array size to accommodate indices 0-9
 
         for (int i = 0; i < len; i = i + 2) {
