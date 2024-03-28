@@ -11,7 +11,7 @@ For example, ```"R3G2B1"``` describes ```n == 3``` rings: a red ring placed onto
 Return the number of rods that have all three colors of rings on them.  
   
   
-**Example 1:**  
+### **Example 1:**  
   
 Input: ```rings = "B0B6G0R6R0R6G9"```  
 Output: ```1```  
@@ -22,7 +22,7 @@ Explanation:
 Thus, the number of rods with all three colors is 1.  
   
   
-**Example 2:**  
+### **Example 2:**  
   
 Input: ```rings = "B0R0G0R9R0B0G0"```  
 Output: ```1```  
@@ -32,14 +32,14 @@ Explanation:
 Thus, the number of rods with all three colors is 1.  
   
   
-**Example 3:**  
+### **Example 3:**  
   
 Input: ```rings = "G4"```  
 Output: ```0``` 
 Explanation:   
 Only one ring is given. Thus, no rods have all three colors.  
   
-**Constraints:**  
+### **Constraints:**  
   
 ```rings.length == 2 * n```  
 ```1 <= n <= 100```  

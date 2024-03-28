@@ -7,15 +7,15 @@ Return true if and only if we can do this so that the resulting number is a powe
   
    
   
-**Example 1:**    
+### **Example 1:**    
 Input: ```n = 1```  
 Output: ```true```  
   
-**Example 2:**    
+### **Example 2:**    
 Input: ```n = 10```  
 Output: ```false```  
    
   
-**Constraints:**  
+### **Constraints:**  
   
 ```1 <= n <= 109```  
