@@ -5,7 +5,7 @@ Return the shuffled string.
    
   
 **Example 1:**  
-[img]["https://assets.leetcode.com/uploads/2020/07/09/q1.jpg"]
+![](https://assets.leetcode.com/uploads/2020/07/09/q1.jpg)
   
 Input: ```s = "codeleet", indices = [4,5,6,7,0,2,1,3]```  
 Output: ```"leetcode"```  
