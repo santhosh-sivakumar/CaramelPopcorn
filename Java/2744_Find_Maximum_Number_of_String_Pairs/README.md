@@ -37,7 +37,7 @@ Explanation: In this example, we are unable to form any pair of strings.
    
   
 ### **Constraints:**  
-  
+   
 ```1 <= words.length <= 50```  
 ```words[i].length == 2```  
 ```words``` consists of distinct strings.  
