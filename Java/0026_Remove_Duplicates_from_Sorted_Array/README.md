@@ -30,7 +30,7 @@ Output: ```2, nums = [1,2,_]```
 Explanation: _Your function should return_ ```k = 2```_, with the first two elements of nums being_ ```1``` _and_ ```2``` _respectively._  
 _It does not matter what you leave beyond the returned_ ```k``` _(hence they are underscores)._  
   
-**Example 2:**  
+### **Example 2:**  
 
 Input: ```nums = [0,0,1,1,1,2,2,3,3,4]```  
 Output: ```5, nums = [0,1,2,3,4,_,_,_,_,_]```  
