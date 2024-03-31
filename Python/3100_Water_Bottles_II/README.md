@@ -15,7 +15,8 @@ Return the maximum number of water bottles you can drink.
    
 ### **Example 1:**   
    
-![](https://assets.leetcode.com/uploads/2024/01/28/exampleone1.png) {width: 190}   
+<img src="https://assets.leetcode.com/uploads/2024/01/28/exampleone1.png" width="300" />
+![](https://assets.leetcode.com/uploads/2024/01/28/exampleone1.png)   
    
 Input: ```numBottles = 13, numExchange = 6```   
 Output: ```15```   
