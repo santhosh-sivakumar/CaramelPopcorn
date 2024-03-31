@@ -21,7 +21,7 @@ Output: ```[5,2]```
 Explanation: In round one, first Alice removes 2 and then Bob removes 5. Then in arr firstly Bob appends and then Alice appends. So ```arr = [5,2]```.  
    
   
-### ***Constraints:***  
+### **Constraints:**  
   
 ```2 <= nums.length <= 100```  
 ```1 <= nums[i] <= 100```  
