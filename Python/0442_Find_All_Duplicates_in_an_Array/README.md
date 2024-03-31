@@ -23,6 +23,6 @@ Output: ```[]```
 ### **Constraints:**  
   
 ```n == nums.length```  
-```1 <= n <= 105```  
+```1 <= n <= 10^5```  
 ```1 <= nums[i] <= n```  
 Each element in nums appears once or twice.  
