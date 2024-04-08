@@ -12,7 +12,7 @@ You are given two integer arrays students and sandwiches where ```sandwiches[i]`
   
    
   
-**Example 1:**  
+### **Example 1:**  
 Input: ```students = [1,1,0,0], sandwiches = [0,1,0,1]```  
 Output: ```0```   
 Explanation:  
@@ -26,12 +26,12 @@ Explanation:
 ```- Front student takes the top sandwich and leaves the line making students = [] and sandwiches = [].```  
 Hence all students are able to eat.  
   
-**Example 2:**  
+### **Example 2:**  
 Input: ```students = [1,1,1,0,0,1], sandwiches = [1,0,0,0,1,1]```  
 Output: ```3```  
    
   
-**Constraints:**  
+### **Constraints:**  
 ```1 <= students.length, sandwiches.length <= 100```  
 ```students.length == sandwiches.length```  
 ```sandwiches[i]``` is ```0``` or ```1```.  
