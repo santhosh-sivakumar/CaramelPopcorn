@@ -4,17 +4,17 @@ Given a string ```s```, reverse the order of characters in each word within a se
 
  
 
-**Example 1:**
+### **Example 1:**
 
 Input: ```s = "Let's take LeetCode contest"```
 Output: ```"s'teL ekat edoCteeL tsetnoc"```
-**Example 2:**
+### **Example 2:**
 
 Input: ```s = "Mr Ding"```
 Output: ```"rM gniD"```
  
 
-**Constraints:**
+### **Constraints:**
 
 ```1 <= s.length <= 5 * 104```
 ```s``` contains printable ASCII characters.
