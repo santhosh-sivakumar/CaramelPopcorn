@@ -2,7 +2,7 @@
    
 You are given ```coordinates```, a string that represents the coordinates of a square of the chessboard. Below is a chessboard for your reference.   
    
-<img src = "https://assets.leetcode.com/uploads/2021/02/19/screenshot-2021-02-20-at-22159-pm.png" width =  200>   
+<img src = "https://assets.leetcode.com/uploads/2021/02/19/screenshot-2021-02-20-at-22159-pm.png" width = 300>   
    
 Return ```true``` if the square is white, and ```false``` if the square is black.   
    
